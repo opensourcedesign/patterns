@@ -3,10 +3,23 @@ Patterns
 
 A collection of UI / UX patterns for different types of applications both free and commerical software. Feel free to fork + add + send a pull request to help this open collection of resources grow.
 
-### Collections
+### Pattern Collections
 
 * Email
 * Encryption PGP
+
+It would be great to get collections for the following types of apps as well as anything you can think of
+
+* Instant Messaging
+* File Sync / Backup
+* Photo Galleries
+* Music & Video Players
+* Calendars
+* Address Books
+* Settings Interfaces
+* Writing Applications
+
+
 
 ### Other Patterns Collections
 
